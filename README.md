@@ -12,6 +12,10 @@ All data has been extracted from publicly available sources.
 
 ## Data, short description, and sources
 
+- netherlandsclimateagriculture.csv
+
+A dataset taken from Clio-Infra containing all kinds of variables related to the development of agriculture and climate over a long time-frame (about 1800-2000). 
+
 - wars_deathcount.csv
 
 A dataset about the occurrence of wars throughout history. Notes and geometric mean of estimated death count. Source: Wikipedia
