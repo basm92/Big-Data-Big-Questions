@@ -29,6 +29,10 @@ A dataset about the occurrence of wars throughout history. Notes and geometric m
 
 Various datasets about demographics (both historical and contemporary) of india. Source: Wikipedia
 
+- climate_data.csv
+
+Climate_data.csv contains data about CO2 and other emissions for all countries in the world over a large timespan. Source: Clio-Infra
+
   - Climate.csv
 
 Climate.csv contains data about population growth, nuclear energy, and
